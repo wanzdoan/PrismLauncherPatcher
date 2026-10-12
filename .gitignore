@@ -1,0 +1,21 @@
+# Git ignore for PrismLauncherPatcher
+
+# Cloned upstream repository & research folder
+PrismLauncher/
+research/
+
+# Binaries and temporary files
+*.exe
+*.dll
+*.bak
+*.tmp
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local IDE / OS files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
